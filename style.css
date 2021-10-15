@@ -1,0 +1,22 @@
+.heading{
+    width: 100%;
+    text-align: left;
+}
+.heading h3{
+    display: inline;
+}
+.heading button{
+    float: right;
+    border: 1px solid white;
+}
+#play{
+    margin-top: 15px;
+}
+#div{
+    border: 0.5px solid white;
+    height: 200px;
+}
+
+body{
+    background-size: cover;
+}
