@@ -20,3 +20,9 @@
 body{
     background-size: cover;
 }
+#restart{
+    margin-top: 9px;
+}
+#footer{
+    margin: 0px;
+}
